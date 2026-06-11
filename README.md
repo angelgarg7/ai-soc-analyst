@@ -1,5 +1,67 @@
 # AI SOC Analyst
 
+AI-powered Security Operations Center for real-time threat intelligence, MITRE ATT&CK mapping, behavioral analytics, and cyber defense.
+
+---
+
+## Live Demo
+
+[Open Streamlit App]([YOUR_STREAMLIT_LINK](https://ai-soc-analyst-jz6lcgwcgkmbqylsk9mtni.streamlit.app/))
+
+---
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+---
+
+## Threat Analysis
+
+![Analysis](analysis.png)
+
+---
+
+## MITRE Mapping
+
+![MITRE](MITRE.png)
+
+---
+
+## Features
+
+- Real-time threat intelligence dashboard
+- MITRE ATT&CK framework mapping
+- IOC extraction and enrichment
+- AI-powered threat analysis
+- Behavioral analytics
+- Live SOC monitoring
+- Threat severity scoring
+- VirusTotal integration
+- Attack graph visualization
+- Interactive cyber defense UI
+
+---
+
+## Tech Stack
+
+- Python
+- Streamlit
+- OpenAI API
+- VirusTotal API
+- HTML/CSS
+- JavaScript
+
+---
+
+## Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+# AI SOC Analyst
+
 AI-powered Security Operations Center (SOC) platform for real-time cyber threat analysis, IOC extraction, MITRE ATT&CK mapping, and autonomous security monitoring.
 
 ## Live Demo
