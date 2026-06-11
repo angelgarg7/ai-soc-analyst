@@ -6,7 +6,7 @@ AI-powered Security Operations Center for real-time threat intelligence, MITRE A
 
 ## Live Demo
 
-[Open Streamlit App]([YOUR_STREAMLIT_LINK](https://ai-soc-analyst-jz6lcgwcgkmbqylsk9mtni.streamlit.app/))
+[Open Streamlit App](https://ai-soc-analyst-jz6lcgwcgkmbqylsk9mtni.streamlit.app)
 
 ---
 
