@@ -4,7 +4,7 @@ AI-powered Security Operations Center (SOC) platform for real-time cyber threat 
 
 ## Live Demo
 
-[Streamlit Deployment](YOUR_STREAMLIT_LINK_HERE)
+[Streamlit Deployment]([YOUR_STREAMLIT_LINK_HERE](https://ai-soc-analyst-jz6lcgwcgkmbqylsk9mtni.streamlit.app/))
 
 ---
 
@@ -85,7 +85,7 @@ VT_API_KEY=your_key
 
 ## Screenshots
 
-_Add dashboard screenshots here_
+
 
 ---
 
