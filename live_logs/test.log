@@ -1,0 +1,5 @@
+powershell -encodedcommand abc123
+mimikatz.exe
+net user administrator
+certutil.exe -urlcache
+schtasks /create /tn malware
